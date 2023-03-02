@@ -1,0 +1,56 @@
+[26-Feb-2023 07:47:36 UTC] PHP Parse error:  syntax error, unexpected variable "$field" in /home/ahmwbksm/refund.ahmweb.site/wp-content/themes/astra_child/functions.php on line 110
+[26-Feb-2023 07:47:52 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "name" in /home/ahmwbksm/refund.ahmweb.site/wp-content/themes/astra_child/functions.php:110
+Stack trace:
+#0 /home/ahmwbksm/refund.ahmweb.site/wp-includes/class-wp-hook.php(308): processForm()
+#1 /home/ahmwbksm/refund.ahmweb.site/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#2 /home/ahmwbksm/refund.ahmweb.site/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /home/ahmwbksm/refund.ahmweb.site/wp-content/plugins/wpforms/includes/class-process.php(535): do_action()
+#4 /home/ahmwbksm/refund.ahmweb.site/wp-content/plugins/wpforms/includes/class-process.php(109): WPForms_Process->process()
+#5 /home/ahmwbksm/refund.ahmweb.site/wp-content/plugins/wpforms/includes/class-process.php(982): WPForms_Process->listen()
+#6 /home/ahmwbksm/refund.ahmweb.site/wp-includes/class-wp-hook.php(308): WPForms_Process->ajax_submit()
+#7 /home/ahmwbksm/refund.ahmweb.site/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#8 /home/ahmwbksm/refund.ahmweb.site/wp-includes/plugin.php(517): WP_Hook->do_action()
+#9 /home/ahmwbksm/refund.ahmweb.site/wp-admin/admin-ajax.php(188): do_action()
+#10 {main}
+  thrown in /home/ahmwbksm/refund.ahmweb.site/wp-content/themes/astra_child/functions.php on line 110
+[26-Feb-2023 07:48:18 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "name" in /home/ahmwbksm/refund.ahmweb.site/wp-content/themes/astra_child/functions.php:110
+Stack trace:
+#0 /home/ahmwbksm/refund.ahmweb.site/wp-includes/class-wp-hook.php(308): processForm()
+#1 /home/ahmwbksm/refund.ahmweb.site/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#2 /home/ahmwbksm/refund.ahmweb.site/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /home/ahmwbksm/refund.ahmweb.site/wp-content/plugins/wpforms/includes/class-process.php(535): do_action()
+#4 /home/ahmwbksm/refund.ahmweb.site/wp-content/plugins/wpforms/includes/class-process.php(109): WPForms_Process->process()
+#5 /home/ahmwbksm/refund.ahmweb.site/wp-content/plugins/wpforms/includes/class-process.php(982): WPForms_Process->listen()
+#6 /home/ahmwbksm/refund.ahmweb.site/wp-includes/class-wp-hook.php(308): WPForms_Process->ajax_submit()
+#7 /home/ahmwbksm/refund.ahmweb.site/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#8 /home/ahmwbksm/refund.ahmweb.site/wp-includes/plugin.php(517): WP_Hook->do_action()
+#9 /home/ahmwbksm/refund.ahmweb.site/wp-admin/admin-ajax.php(188): do_action()
+#10 {main}
+  thrown in /home/ahmwbksm/refund.ahmweb.site/wp-content/themes/astra_child/functions.php on line 110
+[26-Feb-2023 07:48:35 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "name" in /home/ahmwbksm/refund.ahmweb.site/wp-content/themes/astra_child/functions.php:110
+Stack trace:
+#0 /home/ahmwbksm/refund.ahmweb.site/wp-includes/class-wp-hook.php(308): processForm()
+#1 /home/ahmwbksm/refund.ahmweb.site/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#2 /home/ahmwbksm/refund.ahmweb.site/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /home/ahmwbksm/refund.ahmweb.site/wp-content/plugins/wpforms/includes/class-process.php(535): do_action()
+#4 /home/ahmwbksm/refund.ahmweb.site/wp-content/plugins/wpforms/includes/class-process.php(109): WPForms_Process->process()
+#5 /home/ahmwbksm/refund.ahmweb.site/wp-content/plugins/wpforms/includes/class-process.php(982): WPForms_Process->listen()
+#6 /home/ahmwbksm/refund.ahmweb.site/wp-includes/class-wp-hook.php(308): WPForms_Process->ajax_submit()
+#7 /home/ahmwbksm/refund.ahmweb.site/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#8 /home/ahmwbksm/refund.ahmweb.site/wp-includes/plugin.php(517): WP_Hook->do_action()
+#9 /home/ahmwbksm/refund.ahmweb.site/wp-admin/admin-ajax.php(188): do_action()
+#10 {main}
+  thrown in /home/ahmwbksm/refund.ahmweb.site/wp-content/themes/astra_child/functions.php on line 110
+[26-Feb-2023 07:59:45 UTC] PHP Warning:  Array to string conversion in /home/ahmwbksm/refund.ahmweb.site/wp-content/themes/astra_child/functions.php on line 115
+[26-Feb-2023 07:59:45 UTC] PHP Warning:  Array to string conversion in /home/ahmwbksm/refund.ahmweb.site/wp-content/themes/astra_child/functions.php on line 115
+[26-Feb-2023 07:59:56 UTC] PHP Warning:  Array to string conversion in /home/ahmwbksm/refund.ahmweb.site/wp-content/themes/astra_child/functions.php on line 115
+[26-Feb-2023 07:59:56 UTC] PHP Warning:  Array to string conversion in /home/ahmwbksm/refund.ahmweb.site/wp-content/themes/astra_child/functions.php on line 115
+[26-Feb-2023 08:00:24 UTC] PHP Warning:  Array to string conversion in /home/ahmwbksm/refund.ahmweb.site/wp-content/themes/astra_child/functions.php on line 115
+[26-Feb-2023 08:00:24 UTC] PHP Warning:  Array to string conversion in /home/ahmwbksm/refund.ahmweb.site/wp-content/themes/astra_child/functions.php on line 115
+[26-Feb-2023 11:41:27 UTC] PHP Warning:  Attempt to read property "items" on null in /home/ahmwbksm/refund.ahmweb.site/wp-content/themes/astra_child/functions.php on line 86
+[26-Feb-2023 11:41:27 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ahmwbksm/refund.ahmweb.site/wp-content/themes/astra_child/functions.php on line 86
+[26-Feb-2023 14:59:45 UTC] PHP Parse error:  syntax error, unexpected variable "$headers" in /home/ahmwbksm/refund.ahmweb.site/wp-content/themes/astra_child/functions.php on line 333
+[27-Feb-2023 13:11:20 UTC] PHP Warning:  Attempt to read property "items" on null in /home/ahmwbksm/refund.ahmweb.site/wp-content/themes/astra_child/functions.php on line 86
+[27-Feb-2023 13:11:20 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/ahmwbksm/refund.ahmweb.site/wp-content/themes/astra_child/functions.php on line 86
+[27-Feb-2023 16:56:01 UTC] PHP Warning:  Undefined array key "zipcode" in /home/ahmwbksm/refund.ahmweb.site/wp-content/themes/astra_child/functions.php on line 126
+[27-Feb-2023 17:59:53 UTC] PHP Parse error:  syntax error, unexpected identifier "wpforms_process_complete", expecting ")" in /home/ahmwbksm/refund.ahmweb.site/wp-content/themes/astra_child/functions.php on line 140

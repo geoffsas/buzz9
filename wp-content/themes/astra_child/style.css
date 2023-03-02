@@ -1,0 +1,357 @@
+/**
+Theme Name: astra_child
+Author: Brainstorm Force
+Author URI: http://wpastra.com/about/
+Description: Astra is the fastest, fully customizable & beautiful theme suitable for blogs, personal portfolios and business websites. It is very lightweight (less than 50KB on frontend) and offers unparalleled speed. Built with SEO in mind, Astra comes with schema.org code integrated so search engines will love your site. Astra offers plenty of sidebar options and widget areas giving you a full control for customizations. Furthermore, we have included special features and templates so feel free to choose any of your favorite page builder plugin to create pages flexibly. Some of the other features: # WooCommerce Ready # Responsive # Compatible with major plugins # Translation Ready # Extendible with premium addons # Regularly updated # Designed, Developed, Maintained & Supported by Brainstorm Force. Looking for a perfect base theme? Look no further. Astra is fast, fully customizable and beautiful theme!
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: astra_child
+Template: astra
+*/
+.elementor-section.elementor-section-boxed > .elementor-container {
+    max-width: 1300px !important;
+}
+button#wpforms-submit-603 {
+    display: none;
+}
+#wpforms-603-field_1::placeholder {
+    color: black;
+    text-align: center;
+}
+
+.img_box .elementor-image-box-wrapper{
+    text-align: end !important;
+    display: flex;
+    justify-content: space-between !important;
+}
+.img_box .elementor-image-box-wrapper .elementor-image-box-content{
+    text-align: left !important;
+}
+div#wpforms-603{margin-bottom: 0px;}
+.h2_span_com{color: rgb(38, 156, 212);}
+.custom_gallery div#gallery-1 {
+    margin: 0px;
+}
+.thousand_sec{
+    color: rgb(38, 156, 212);
+    position: relative;
+    z-index: 2;
+}
+.thousand_sec img{
+    position: absolute;
+    top: -10px;
+    left: 0px;
+    z-index: -1;
+}
+.mis_sold{
+    background: rgb(208, 231, 242);
+    margin: 5px 27px;
+    padding: 14px 8px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+}
+.mis_sold span {
+    font-weight: 700;
+}
+.test_box h3.elementor-image-box-title{margin: 0 !important;}
+.test_box .elementor-image-box-wrapper{
+    align-items: center !important;
+}
+
+.text_list ul li{
+    background: rgb(208, 231, 242);
+    padding: 12px !important;
+    margin-bottom: 24px !important;
+}
+
+.gePyBV {
+    width: 435px;
+    height: 579px;
+    background-image: url(/wp-content/uploads/2023/02/vector.svg);
+    position: relative;
+}
+.lgloSm {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+.ebOBUN {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    width: 372px;
+    margin: auto auto 16px;
+}
+.kcxxuT {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    width: 372px;
+    margin: auto;
+}
+.business_form .wpforms-clear.wpforms-pagebreak-left{text-align: center !important;}
+.business_form button.wpforms-page-button.wpforms-page-next{border-radius: 35px;
+    background-color: #EE6502;
+    padding: 19px 50px;
+    border: 1px solid #fff;
+    font-weight: 700;
+    font-size: 20px;}
+.business_form button.wpforms-page-button.wpforms-page-next:hover{background-color: #cf5b08;}
+.pop_list ul li{list-style: none; display: flex;
+    justify-content: space-between;
+    gap: 15px;}
+.business_form .wpforms-field{
+    width: 50% !important;
+    max-width: 100% !important;
+    margin: 0 auto !important;
+}
+.wpforms-field h1 {
+    font-size: 20px;
+    text-align: center;
+    color: #fff;
+    margin-bottom: 20px;
+    font-weight: 700;
+    line-height: 35px;
+    font-family: 'Inter';
+}
+.wpforms-page-indicator.progress {
+    display: none;
+}
+.business_form .wpforms-list-2-columns ul li{text-align: center;}
+.business_form input[type=checkbox], .business_form input[type=radio] {
+    width: 35px;
+    height: 35px;
+    margin: 2px 10px 0 3px;
+    display: inline-block;
+    vertical-align: middle;
+}
+.business_form a.home_url_buttons {
+    color: #fff;
+    background: #EE6502;
+    display: block;
+    padding: 12px 30px;
+    text-align: center;
+}
+.business_form .wpforms-submit-container a.home_url_buttons, #wpforms-851-field_26-container a.home_url_buttons{background: none !important;}
+.business_form p {
+    color: #fff;
+    font-size: 20px;
+    text-align: center;
+}
+.business_form .wpforms-field-label-inline {
+    vertical-align: middle;
+    font-size: 35px;
+    color: #fff;
+}
+.business_form .terms_check{width: max-content !important;}
+.business_form .terms_check .wpforms-field-label-inline {
+    font-size: 14px;
+}
+.business_form .terms_check .ul li {
+    display: flex;
+    align-items: center;
+}
+.business_form_button{
+    border-radius: 35px;
+    background-color: #EE6502;
+    padding: 19px 50px;
+    border: 1px solid #fff;
+    font-weight: 700;
+    font-size: 20px;
+}
+.wpforms-submit-container{text-align: center;}
+#wpforms-851-field_26 a {
+    color: rgb(0, 166, 245);
+}
+input#wpforms-603-field_1{padding: 1.75em;}
+.wpforms-container label.wpforms-error {
+    color: #ffffff;
+}
+canvas#signature-pad {
+    background: #fff;
+/*     width: 100%;
+    height: 50vh; */
+}
+.clear-button {
+    text-align: center;
+}
+@media(max-width:1024px){
+	.elementor-544 .elementor-element.elementor-element-f661196 > .elementor-element-populated {
+    padding: 0px 0px 0px 0px;
+}
+	section.elementor-section.elementor-top-section.elementor-element.elementor-element-812aa30.elementor-section-content-middle.hero_back.elementor-section-boxed.elementor-section-height-default.elementor-section-height-default {
+    padding: 52px 10px 25px 10px;
+}
+}
+@media(max-width:768px){
+	
+	.elementor-837 .elementor-element.elementor-element-6cd5ae6 > .elementor-widget-container {
+    padding: 20px 20px 0px 20px;
+}
+	section.elementor-section.elementor-top-section.elementor-element.elementor-element-22dbaaa.elementor-section-boxed.elementor-section-height-default.elementor-section-height-default {
+    padding: 42px 10px 25px;
+}
+    .business_form .wpforms-field{width: 100% !important;}
+    .broker_com{
+        padding-bottom: 130px !important;
+    }
+    .gePyBV{
+        margin: 0 auto;
+        width: 327px;
+        height: 526px;
+    }
+    .lgloSm {
+        bottom: -143px;
+        width: 100%;
+    }
+    .gePyBV {
+        width: 320px;
+        height: 440px;
+        background-position: center;
+        background-size: contain;
+        background-repeat: no-repeat;
+    }
+    .kcxxuT {
+        font-size: 16px;
+        width: 320px;
+        margin: auto;
+        background: #FBCBA8;
+        border-radius: 20px;
+        padding: 12px;
+    }
+    .ebOBUN {
+        font-size: 16px;
+        width: 280px;
+        margin: 0px auto;
+    }
+    .img_box .elementor-image-box-wrapper {
+        display: block !important;
+    }
+    .img_box figure{
+        width: 100% !important;
+        text-align: center;
+
+    }
+    .mis_sold{
+        margin: 5px;
+    }
+    .ft_list ul li{padding: 12px !important;}
+}
+@media(max-width: 557px){
+	.mis_soldd .elementor-widget:not(:last-child){margin: 0px !important;}
+	section.elementor-section.elementor-top-section.elementor-element.elementor-element-812aa30.elementor-section-content-middle.hero_back.elementor-section-boxed.elementor-section-height-default.elementor-section-height-default {
+    padding: 52px 12px 25px 12px;
+}
+	section.elementor-section.elementor-top-section.elementor-element.elementor-element-92bfe9e.elementor-section-content-middle.elementor-section-full_width.thousnad.elementor-section-height-default.elementor-section-height-default {
+    padding: 40px 20px 50px;
+}
+	section.elementor-section.elementor-top-section.elementor-element.elementor-element-b3c9804.elementor-section-content-middle.elementor-section-boxed.elementor-section-height-default.elementor-section-height-default {
+    padding: 50px 20px 50px;
+}
+	section.elementor-section.elementor-top-section.elementor-element.elementor-element-76a04d4.elementor-section-content-middle.broker_com.elementor-section-boxed.elementor-section-height-default.elementor-section-height-default {
+    padding: 60px 20px 60px 20px;
+}
+	.gePyBV, .kcxxuT {
+		width: 292px;}
+}
+.companies_list {
+	display:none;
+	width: 100%;
+    padding-right: 20px;
+    height: 200px;
+    border: 1px solid rgb(255, 255, 255);
+    font-family: Inter, sans-serif;
+    color: rgb(20, 6, 79);
+    background: rgba(255, 255, 255, 0.1);
+    font-size: 16px;
+    font-weight: 300;
+    position: absolute;
+    overflow: scroll;
+    top: -9px;
+    z-index: 9999999999;
+    background: white;
+}
+.companies_list.open {
+display:block
+}
+.companies_list ul {
+   list-style: none;
+    margin-top: 0px;
+    padding-left: 0px;
+    background: rgb(31, 63, 115);
+}
+.companies_list ul li{
+    padding-top: 11px;
+    padding-left: 20px;
+    padding-bottom: 11px;
+    border-bottom: 0.1px solid white;
+    color: white;
+    width: 100%;
+cursor:pointer;
+}
+.company_name_hidden input {
+  opacity: 0;
+  width: 0;
+}
+.company_name_hidden #wpforms-851-field_38-error {
+  position: absolute;
+  top: -52px;
+}
+.disabled-anchor {
+	pointer-events: none !important;
+	cursor: default;
+	color: #e1e1e1;
+}
+input#zip_code {
+    padding: 20px 0px;
+    width: 100%;
+    max-width: 90%;
+    margin: 15px auto;
+    display: block;
+}
+
+button#btzip {
+	display: flex;
+    gap: 12px;
+	width: 100%;
+    margin: 0 auto;
+    max-width: 70%;
+    justify-content: center;
+    font-family: "SF Pro Display", Sans-serif;
+    font-size: 26px;
+    font-weight: 600;
+    background-color: #EE6502;
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    border-color: #FFFFFF;
+    border-radius: 35px 35px 35px 35px;
+    box-shadow: 0px 0px 10px 0px rgb(0 0 0 / 50%);
+    padding: 17px 35px 17px 35px;
+}
+#zip_code::placeholder {
+	font-weight:700;
+	font-size: 18px;
+    color: black;
+    text-align: center;
+}
+.alert-box {
+	padding: 15px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+    border-radius: 4px;  
+}
+
+.failure {
+    color: #a94442;
+    background-color: #f2dede;
+    border-color: #ebccd1;
+    display: none;
+}
